@@ -173,3 +173,8 @@ Historical entries are reconstructed from saved artifacts, not contemporaneous l
 2026-11-13T15:43:07.722Z | S3-89 | NJWGR | accepted text | 20434 | discrete visual/manual; selection-003.json
 2026-11-13T15:44:07.050Z | S3-90 | RGS + TCH | accepted-delayed-counter xcaptcha-assembly | 21637 | discrete visual/manual; selection-003.json
 2026-11-13T15:44:49.131Z | S3-91 | ice cream safe: top-right refrigerator | accepted click-images | 21621 | discrete visual/manual; selection-003.json
+
+2026-11-13T15:46:27.993Z | S3-92 | stone bottom-left | accepted click-shape | 19191 | goal-crossing credit0.00045; dashboard0.010149
+2026-11-13T15:39:59.328Z | S3-expiry | unknown | xCaptcha pF8+iSs offered aftertwo shapes, clicked tiles; Confirm timed out as challenge expired, Solved2/Earned0.0009 unchanged; no confirmed submission | unknown | no confirmed submission
+2026-11-13T15:40:33.074Z | S3-expiry | unknown | text949468 expired before confirmed submission, screenshot18sec remained but transport missed timer | unknown | no confirmed submission
+2026-11-13T15:47:21.507Z | S3-final | n/a | stopped at verified balance0.010149;51paidaccepts/57engaged | n/a | single browser alive/dashboard; no withdrawal

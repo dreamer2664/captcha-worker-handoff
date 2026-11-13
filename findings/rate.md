@@ -20,3 +20,5 @@ Selection checkpoint: paid3 queue +$0.0007 = assembly0.0005 + two texts0.0001. H
 Paid10 selection: queue cumulative$0.0014 and dashboard$0.0039 minus baseline$0.0025 = $0.0014 exactly. One assembly0.0005+nine text0.0001; no mismatched posted rate observed.
 
 New paid type aftergate11: click-shape/stones posts$0.45/1000 and credits$0.00045each acrossfour accepts. Lastten mixedrate earned$0.0028 = four0.00045+one0.0005+five0.0001. Header$0.009699 minus$0.006899=$0.0028exactly.
+
+FINAL:51selectionaccepts credit$0.007650 (44×0.0001+5×0.00045+2×0.0005). Actualheader$0.010149 vsbaseline$0.0025 delta$0.007649. Goal crossed, paidworkstopped; no payoutperformed.

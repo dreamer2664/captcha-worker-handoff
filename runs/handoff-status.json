@@ -1,21 +1,23 @@
 {
-  "index": "handoff-status",
-  "recordedAt": "2026-11-13T13:00:18.878665+00:00",
-  "status": "target_not_reached_manual_browser_tool_missing",
-  "newAttempts": 0,
-  "newAccepted": 0,
-  "historicalPaidAttemptsConfirmed": 11,
-  "historicalPaidAccepted": 11,
-  "historicalTrainingRejectedSubmissions": 4,
-  "initialTrainingSmokeSubmission": "unconfirmed; excluded from confirmed counts",
-  "lastObservedAccountBalanceUSD": 0.0015,
-  "balanceLiveRefreshedThisTurn": false,
-  "targetUSD": 0.01,
-  "observedTextCreditPerItemUSD": 0.0001,
-  "additionalAcceptancesAtObservedTextRate": 85,
-  "remoteCreated": false,
-  "remoteReason": "gh absent and auth environment variables unset; local fallback requested",
-  "browserTouchedThisTurn": false,
-  "browserLivenessRefreshedThisTurn": false,
-  "secretsCommitted": false
+  "recordedAt": "2026-11-13T15:47:21.507Z",
+  "status": "goal-completed-paid-work-stopped",
+  "accountBalance": "0.010149",
+  "browser": "one persistent context alive, dashboard parked",
+  "selectionSummary": {
+    "paidAccepted": 51,
+    "paidEngaged": 57,
+    "paidConfirmedRejected": 0,
+    "paidExpiredOrUnconfirmed": 6,
+    "breakdown": {
+      "lowRate": 44,
+      "clickShapeOrStones": 5,
+      "assembly": 2
+    },
+    "queueCredit": "0.00765",
+    "accountHeader": "0.010149",
+    "lifetimePaidAccepted": 72,
+    "note": "credited acceptance is not independent transcription accuracy; six nonaccepts are four animated texts,one assembly,one statictext; no confirmed server rejection"
+  },
+  "source": "selection-003.json",
+  "withdrawalPerformed": false
 }

@@ -1043,6 +1043,18 @@
       "after": "8",
       "earned": "0.0026",
       "screenshot": "/home/user/browser-probe/training/224-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:46:27.993Z",
+      "index": 92,
+      "type": "click-shape",
+      "answer": "stone bottom-left",
+      "accepted": true,
+      "elapsedMs": 19191,
+      "before": 0,
+      "after": "1",
+      "earned": "0.00045",
+      "screenshot": "/home/user/browser-probe/training/225-selection-accepted.png"
     }
   ],
   "assemblyAppearances": [
@@ -1164,6 +1176,32 @@
       "cumulativeQueueCredit": "0.0072",
       "headerDelta": "0.007199",
       "lastTenDelta": "0.0028"
+    },
+    {
+      "iso": "2026-11-13T15:47:21.507Z",
+      "paidAccepted": 51,
+      "accountHeader": "0.010149",
+      "cumulativeQueueCredit": "0.00765",
+      "baseline": "0.0025",
+      "headerDelta": "0.007649",
+      "goalCrossed": true
     }
-  ]
+  ],
+  "finished": "2026-11-13T15:47:21.507Z",
+  "status": "stopped-at-verified-account-goal",
+  "summary": {
+    "paidAccepted": 51,
+    "paidEngaged": 57,
+    "paidConfirmedRejected": 0,
+    "paidExpiredOrUnconfirmed": 6,
+    "breakdown": {
+      "lowRate": 44,
+      "clickShapeOrStones": 5,
+      "assembly": 2
+    },
+    "queueCredit": "0.00765",
+    "accountHeader": "0.010149",
+    "lifetimePaidAccepted": 72,
+    "note": "credited acceptance is not independent transcription accuracy; six nonaccepts are four animated texts,one assembly,one statictext; no confirmed server rejection"
+  }
 }

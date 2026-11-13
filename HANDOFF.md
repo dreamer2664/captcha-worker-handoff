@@ -1,3 +1,19 @@
+# FINAL CURRENT STATE — read before historical sections
+
+**Paid work stopped at the requested credited-account goal.** At 2026-11-13T15:46Z, dashboard header visually verified **$0.010149** after the last shape task paid $0.00045. Do not restart paid solving unless the owner requests it. One authenticated persistent browser context is alive, parked on `https://2captcha.com/play-and-earn`; no unattended solver runs.
+
+- Public repo: https://github.com/dreamer2664/captcha-worker-handoff; final commit pushed/remote verification recorded in conversation.
+- Final run source: `runs/selection-003.json`; all92 submission/modal rows plus anomalies and balance checks. 51 paid accepts /57 paid items engaged; zero confirmed paid server rejections; six expired/unconfirmed:4animatedtext,1assembly,1statictext. Lifetime72paidaccepts.
+- Selection credit$0.007650 from baselineheader$0.0025; finalheaderdelta$0.007649. Lastitem shape bottom-left at15:46:27.993Z,credit$0.00045. Discrepancy recorded only.
+- Paid types:44low-rate items at0.0001,5shape/stones at0.00045,2assemblies at0.0005. Credit/solved counters are acceptance evidence, not independent transcription accuracy. A partial animated WFM response credited after minlength warning; preserve this limitation.
+- Gates6–11 complete; gates12–14 not exercised. No withdrawal; wallet unset/four-day hold previously observed, not rechecked at goal.
+- Browser transport: `/home/user/browser-probe/control.py` sends discrete JS to live controller8878. Globals p,ctx,selectionRun,selectionItem,selectionSubmit,selectionOne available while runtime survives. `selectionOne` handles ONE manually chosen answer, never a loop; screenshots are inspected before each answer. Do not interpret input/iframe absence as empty queue: paid click tasks have neither. Use screenshot/Send control. xCaptcha uses checkbox then2tiles thenConfirm; counters may update after >900ms.
+- Profile and screenshots remain outside repo under `/home/user/browser-probe/`; credential/token files stay outside repo,0600; askpass0700. No secrets or profiles committed. Snapshot can drop `.git/config` and executable modes; restore token-free origin/askpass modes if necessary, without printing credentials.
+- Assembly appearance ISO timestamps in run JSON; later assemblies followed shapes/low-rate tasks, not just queue entry. Scheduling waves unproven. One later assembly expired; another accepted after delayed counter.
+- Historical sections below are retained provenance and may describe obsolete balances, tooling stalls or instructions to continue. This final state supersedes them.
+
+---
+
 # Fresh-agent handoff
 
 ## Mission, scope and current stop
