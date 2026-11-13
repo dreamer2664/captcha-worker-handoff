@@ -1,0 +1,60 @@
+{
+  "index": "training-03",
+  "status": "completed",
+  "attempted": 7,
+  "accepted": 5,
+  "rejected": 2,
+  "expired": "not separately measured",
+  "rows": [
+    {
+      "answer": "5h4hw",
+      "confirmed": true,
+      "before": "Training progress 0/5",
+      "after": "Training progress 1/5",
+      "elapsedMs": 20599.5595703125,
+      "screenshot": "/home/user/browser-probe/training/120-gate-accepted.png"
+    },
+    {
+      "answer": "ts4w",
+      "confirmed": true,
+      "before": "Training progress 1/5",
+      "after": "Training progress 2/5",
+      "elapsedMs": 7917.5595703125,
+      "screenshot": "/home/user/browser-probe/training/121-gate-accepted.png"
+    },
+    {
+      "answer": "2capa",
+      "confirmed": true,
+      "before": "Training progress 2/5",
+      "after": "Training progress 3/5",
+      "elapsedMs": 10267.5595703125,
+      "screenshot": "/home/user/browser-probe/training/122-gate-accepted.png"
+    },
+    {
+      "answer": "68cb3",
+      "confirmed": true,
+      "before": "Training progress 3/5",
+      "after": "Training progress 4/5",
+      "elapsedMs": 7652.5595703125,
+      "screenshot": "/home/user/browser-probe/training/123-gate-accepted.png"
+    },
+    {
+      "answer": "55snmm",
+      "confirmed": true,
+      "before": "Training progress 4/5",
+      "after": "Training progress 5/5",
+      "elapsedMs": 36286.5595703125,
+      "screenshot": "/home/user/browser-probe/training/124-gate-accepted.png"
+    }
+  ],
+  "rejections": [
+    {
+      "answer": "55smmm",
+      "submissions": 2,
+      "progressUnchanged": "4/5",
+      "elapsedMs": null,
+      "eventTime": null,
+      "correctionSource": "UI displayed Correct answer"
+    }
+  ]
+}

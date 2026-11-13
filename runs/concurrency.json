@@ -1,0 +1,22 @@
+{
+  "before": {
+    "current": 1438752768,
+    "limit": "1944928256",
+    "events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\n"
+  },
+  "after": {
+    "current": 1500610560,
+    "limit": "1944928256",
+    "events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\n"
+  },
+  "peakSampledCgroupBytes": 1507168256,
+  "primaryAlive": true,
+  "secondaryAlive": true,
+  "secondaryUrl": "https://2captcha.com/enterpage",
+  "balances": [
+    "$0.001499",
+    "$0.001499"
+  ],
+  "durationMs": 3000,
+  "contextCount": 2
+}

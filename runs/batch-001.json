@@ -1,0 +1,103 @@
+{
+  "index": 1,
+  "start": 1794573470127,
+  "before": 0.0005,
+  "rows": [
+    {
+      "index": 1,
+      "answer": "436K5T",
+      "accepted": true,
+      "elapsedMs": 12782,
+      "screenshot": "/home/user/browser-probe/training/107-paid-accepted.png"
+    },
+    {
+      "index": 2,
+      "answer": "5664",
+      "accepted": true,
+      "elapsedMs": 16532,
+      "screenshot": "/home/user/browser-probe/training/108-paid-accepted.png",
+      "timingBasis": "challenge screenshot to acceptance screenshot"
+    },
+    {
+      "index": 3,
+      "answer": "976273",
+      "accepted": true,
+      "elapsedMs": 10312.5595703125,
+      "screenshot": "/home/user/browser-probe/training/109-paid-accepted.png"
+    },
+    {
+      "index": 4,
+      "answer": "398794",
+      "accepted": true,
+      "elapsedMs": 12763.5595703125,
+      "screenshot": "/home/user/browser-probe/training/115-paid-accepted.png"
+    },
+    {
+      "index": 5,
+      "answer": "PCX",
+      "accepted": true,
+      "elapsedMs": 9879.5595703125,
+      "screenshot": "/home/user/browser-probe/training/116-paid-accepted.png"
+    },
+    {
+      "index": 6,
+      "answer": "RLNUBZ",
+      "accepted": true,
+      "elapsedMs": 34447.5595703125,
+      "screenshot": "/home/user/browser-probe/training/117-paid-accepted.png"
+    },
+    {
+      "index": 7,
+      "answer": "MNTCG3",
+      "accepted": true,
+      "elapsedMs": 9273.5595703125,
+      "screenshot": "/home/user/browser-probe/training/118-paid-accepted.png"
+    },
+    {
+      "index": 8,
+      "answer": "3BF5Z",
+      "accepted": true,
+      "elapsedMs": 18521.5595703125,
+      "screenshot": "/home/user/browser-probe/training/119-paid-accepted.png"
+    },
+    {
+      "index": 9,
+      "answer": "N2PA9",
+      "accepted": true,
+      "elapsedMs": 22897.5595703125,
+      "screenshot": "/home/user/browser-probe/training/125-paid-accepted.png"
+    },
+    {
+      "index": 10,
+      "answer": "B5OHXP",
+      "accepted": true,
+      "elapsedMs": 11974.5595703125,
+      "screenshot": "/home/user/browser-probe/training/126-paid-accepted.png"
+    }
+  ],
+  "finished": 1794574126701,
+  "summary": {
+    "index": 1,
+    "attempted": 10,
+    "accepted": 10,
+    "rejected": 0,
+    "expired": 0,
+    "meanElapsedMs": 15938,
+    "queueEarningsDelta": 0.001,
+    "accountBalanceObserved": 0.001499,
+    "anomalies": [
+      "Training gates 2 and 3 completed; four rejected training submissions, corrected using displayed answers.",
+      "Blank queue around 60s: dashboard re-entry; per-run Earned/Solved counters reset, account funds persisted.",
+      "Three paid items exceeded 15s, none exceeded 60s; queue wait excluded from item timing.",
+      "Account balance displayed 0.001499 versus summed queue earnings 0.0015; discrepancy 0.000001, cause unverified."
+    ]
+  },
+  "provenance": "Retrospective import. Original schema retained; item timestamps not recorded contemporaneously.",
+  "corrections": {
+    "over15Seconds": 4,
+    "priorReportSaid": 3,
+    "accountLaterObservedUSD": 0.0015,
+    "queueRateUSDPer1000": 0.1,
+    "creditPerItemUSD": 0.0001
+  }
+}

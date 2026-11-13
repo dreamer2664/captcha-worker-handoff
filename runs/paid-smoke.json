@@ -1,0 +1,20 @@
+{
+  "index": "paid-smoke",
+  "attempted": 1,
+  "accepted": 1,
+  "rejected": 0,
+  "expired": 0,
+  "meanElapsedMs": 24961,
+  "creditsBeforeUSD": 0,
+  "creditsAfterUSD": 0.0005,
+  "rateUSDPer1000": 0.5,
+  "rows": [
+    {
+      "answer": "PzW + NTK",
+      "accepted": true,
+      "elapsedMs": 24961,
+      "screenshot": "/home/user/browser-probe/training/106-paid-accepted.png"
+    }
+  ],
+  "scope": "in-site earnings only; no withdrawal"
+}
