@@ -69,3 +69,6 @@ RUNLOG is append-only, with one line per known historical item/attempt. Missing 
 7. Sustained two-active-worker memory, session conflict and throughput; dashboard test is insufficient.
 8. Initial unconfirmed submission/hang exact cause; no proven root-cause trace.
 9. Historical rejection timestamps/elapsed cannot be recovered from retained records without new evidence.
+
+## Owner revision after handoff
+Shell transport for discrete manually decided browser actions is now explicitly allowed. The former tooling-conflict stop is superseded; use `findings/manual-protocol.md` exactly, with visual inspection between item cycles. Historical text tasks posted $0.10/1,000, not $0.50; see `findings/rate.md` for pending new-item checks. Live controller responded at port 8878 before this revision's work; primary page alive and two contexts existed.
