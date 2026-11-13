@@ -155,3 +155,12 @@ Historical entries are reconstructed from saved artifacts, not contemporaneous l
 2026-11-13T15:28:24.237Z | S3-74 | Q85AG | accepted text | 18579 | discrete visual/manual; selection-003.json
 2026-11-13T15:28:54.289Z | S3-75 | 734862 | accepted text | 16565 | discrete visual/manual; selection-003.json
 2026-11-13T15:26:00Z | S3-expiry-4 | partial676 | expired during minimum-length modal | unknown | no confirmed submission
+
+2026-11-13T15:29:56.033Z | S3-76 | 7HBYPV | accepted text | 20959 | discrete visual/manual; selection-003.json
+2026-11-13T15:30:26.415Z | S3-77 | STR8Z | accepted text | 16893 | discrete visual/manual; selection-003.json
+2026-11-13T15:30:51.064Z | S3-78 | 4,6,11 | accepted training | 17713 | discrete visual/manual; selection-003.json
+2026-11-13T15:31:08.131Z | S3-79 | 731 | accepted training | 16934 | discrete visual/manual; selection-003.json
+2026-11-13T15:32:18.343Z | S3-80 | 724 | rejected training | 20111 | discrete visual/manual; selection-003.json
+2026-11-13T15:32:36.260Z | S3-81 | 624 | accepted training | 17878 | discrete visual/manual; selection-003.json
+2026-11-13T15:32:51.993Z | S3-82 | 2 | accepted training | 15563 | discrete visual/manual; selection-003.json
+2026-11-13T15:34:07.459Z | S3-83 | click G,j,z,h | accepted training | 20725 | discrete visual/manual; selection-003.json
