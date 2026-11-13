@@ -103,3 +103,9 @@ Historical entries are reconstructed from saved artifacts, not contemporaneous l
 2026-11-13T14:57:48.449Z | S3-30 | 984 | accepted training | 11648 | discrete visual/manual; selection-003.json
 2026-11-13T14:58:59.657Z | S3-31 | January | accepted training | 13544 | discrete visual/manual; selection-003.json
 2026-11-13T14:59:20.445Z | S3-32 | HU0P5K | accepted text | 12546 | discrete visual/manual; selection-003.json
+
+2026-11-13T14:59:51.594Z | S3-33 | TPMD | accepted text | 18276 | discrete visual/manual; selection-003.json
+2026-11-13T15:00:25.109Z | S3-34 | P4AV | accepted text | 15526 | discrete visual/manual; selection-003.json
+2026-11-13T15:01:00.728Z | S3-35 | 89Q16 | accepted text | 30149 | discrete visual/manual; selection-003.json
+2026-11-13T15:01:34.895Z | S3-36 | M5KND | accepted text | 16263 | discrete visual/manual; selection-003.json
+2026-11-13T15:02:08.307Z | S3-37 | 3438 | accepted text | 15697 | discrete visual/manual; selection-003.json
