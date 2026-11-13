@@ -113,3 +113,14 @@ Historical entries are reconstructed from saved artifacts, not contemporaneous l
 2026-11-13T15:05:36.970Z | S3-38 | YYS | accepted text | 28870 | discrete visual/manual; selection-003.json
 2026-11-13T15:06:06.730Z | S3-39 | 483657 | accepted text | 16163 | discrete visual/manual; selection-003.json
 2026-11-13T15:03:20Z | S3-recovery | n/a | blank queue >60s, reload then dashboard reentry | unknown | successful recovery; no paid loss observed
+
+2026-11-13T15:07:27.552Z | S3-40 | AVCYG | accepted text | 32706 | discrete visual/manual; selection-003.json
+2026-11-13T15:07:58.249Z | S3-41 | MWP4CK | accepted text | 17251 | discrete visual/manual; selection-003.json
+2026-11-13T15:08:23.523Z | S3-42 | P2BiRr | accepted training | 18357 | discrete visual/manual; selection-003.json
+2026-11-13T15:10:22.130Z | S3-43 | mXgC | accepted training | 11372 | discrete visual/manual; selection-003.json
+2026-11-13T15:10:38.102Z | S3-44 | PS922 | rejected training | 15791 | discrete visual/manual; selection-003.json
+2026-11-13T15:10:50.880Z | S3-45 | pssz2 | accepted training | 12740 | discrete visual/manual; selection-003.json
+2026-11-13T15:11:07.529Z | S3-46 | 3EWL7B | rejected training | 16449 | discrete visual/manual; selection-003.json
+2026-11-13T15:11:21.278Z | S3-47 | 3exl7b | accepted training | 13711 | discrete visual/manual; selection-003.json
+2026-11-13T15:11:37.391Z | S3-48 | huyvau | rejected training | 15910 | discrete visual/manual; selection-003.json
+2026-11-13T15:12:06.055Z | S3-49 | wy8ya | accepted training | 28550 | discrete visual/manual; selection-003.json
