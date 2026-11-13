@@ -421,6 +421,30 @@
       "after": "8",
       "earned": "0.0008",
       "screenshot": "/home/user/browser-probe/training/179-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:05:36.970Z",
+      "index": 38,
+      "type": "text",
+      "answer": "YYS",
+      "accepted": true,
+      "elapsedMs": 28870,
+      "before": 0,
+      "after": "1",
+      "earned": "0.0001",
+      "screenshot": "/home/user/browser-probe/training/180-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:06:06.730Z",
+      "index": 39,
+      "type": "text",
+      "answer": "483657",
+      "accepted": true,
+      "elapsedMs": 16163,
+      "before": 1,
+      "after": "2",
+      "earned": "0.0002",
+      "screenshot": "/home/user/browser-probe/training/181-selection-accepted.png"
     }
   ],
   "assemblyAppearances": [
@@ -434,6 +458,14 @@
     {
       "iso": "2026-11-13T14:41:00.759Z",
       "event": "animated text task expired during screenshot inspection; no confirmed submission; five-second target missed"
+    },
+    {
+      "iso": "2026-11-13T15:03:25.199Z",
+      "event": "queue blank >60s after paid3438, Solved8 Earned0.0008 unchanged; reload per protocol"
+    },
+    {
+      "iso": "2026-11-13T15:04:50.971Z",
+      "event": "refresh+Start solve restored previous segment counters8/0.0008 but no task >60s; dashboard reentry"
     }
   ],
   "checks": [
@@ -454,6 +486,23 @@
       "accountHeader": "0.0039",
       "baseline": "0.0025",
       "headerDelta": "0.0014"
+    },
+    {
+      "iso": "2026-11-13T15:05:02.599Z",
+      "paidAccepted": 18,
+      "accountHeader": "0.0047",
+      "headerDelta": "0.0022",
+      "reason": "queue recovery",
+      "cumulativeQueueCredit": "0.0022"
+    },
+    {
+      "iso": "2026-11-13T15:06:31.668Z",
+      "paidAccepted": 20,
+      "accountHeader": "0.004899",
+      "cumulativeQueueCredit": "0.0024",
+      "baseline": "0.0025",
+      "headerDelta": "0.002399",
+      "note": "record one-millionth discrepancy only"
     }
   ]
 }

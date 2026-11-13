@@ -109,3 +109,7 @@ Historical entries are reconstructed from saved artifacts, not contemporaneous l
 2026-11-13T15:01:00.728Z | S3-35 | 89Q16 | accepted text | 30149 | discrete visual/manual; selection-003.json
 2026-11-13T15:01:34.895Z | S3-36 | M5KND | accepted text | 16263 | discrete visual/manual; selection-003.json
 2026-11-13T15:02:08.307Z | S3-37 | 3438 | accepted text | 15697 | discrete visual/manual; selection-003.json
+
+2026-11-13T15:05:36.970Z | S3-38 | YYS | accepted text | 28870 | discrete visual/manual; selection-003.json
+2026-11-13T15:06:06.730Z | S3-39 | 483657 | accepted text | 16163 | discrete visual/manual; selection-003.json
+2026-11-13T15:03:20Z | S3-recovery | n/a | blank queue >60s, reload then dashboard reentry | unknown | successful recovery; no paid loss observed
