@@ -234,6 +234,42 @@
       "before": "Training progress 4/5",
       "after": "Training progress 5/5",
       "screenshot": "/home/user/browser-probe/training/163-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:53:15.617Z",
+      "index": 22,
+      "type": "text",
+      "answer": "87rnf",
+      "accepted": true,
+      "elapsedMs": 14266,
+      "before": 4,
+      "after": "5",
+      "earned": "0.0005",
+      "screenshot": "/home/user/browser-probe/training/164-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:53:45.441Z",
+      "index": 23,
+      "type": "text",
+      "answer": "3CBG",
+      "accepted": true,
+      "elapsedMs": 12212,
+      "before": 5,
+      "after": "6",
+      "earned": "0.0006",
+      "screenshot": "/home/user/browser-probe/training/165-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:54:07.724Z",
+      "index": 24,
+      "type": "text",
+      "answer": "878401",
+      "accepted": true,
+      "elapsedMs": 13231,
+      "before": 6,
+      "after": "7",
+      "earned": "0.0007",
+      "screenshot": "/home/user/browser-probe/training/166-selection-accepted.png"
     }
   ],
   "assemblyAppearances": [
@@ -258,6 +294,15 @@
       "baseline": "0.0025",
       "headerDelta": "0.000699",
       "note": "one-millionth display discrepancy recorded only"
+    },
+    {
+      "iso": "2026-11-13T14:55:24.494Z",
+      "paidAccepted": 10,
+      "cumulativeQueueCredit": "0.0014",
+      "segmentEarned": "0.0007",
+      "accountHeader": "0.0039",
+      "baseline": "0.0025",
+      "headerDelta": "0.0014"
     }
   ]
 }

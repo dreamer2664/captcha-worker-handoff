@@ -90,3 +90,7 @@ Historical entries are reconstructed from saved artifacts, not contemporaneous l
 2026-11-13T14:52:07.745Z | S3-19 | SMV6BR | accepted training | 11977 | discrete visual/manual; selection-003.json
 2026-11-13T14:52:24.482Z | S3-20 | j7f5w3x7965 | rejected training | 13700 | discrete visual/manual; selection-003.json
 2026-11-13T14:52:39.888Z | S3-21 | jfkf3w3h49cg | accepted training | 11179 | discrete visual/manual; selection-003.json
+
+2026-11-13T14:53:15.617Z | S3-22 | 87rnf | accepted text | 14266 | discrete visual/manual; selection-003.json
+2026-11-13T14:53:45.441Z | S3-23 | 3CBG | accepted text | 12212 | discrete visual/manual; selection-003.json
+2026-11-13T14:54:07.724Z | S3-24 | 878401 | accepted text | 13231 | discrete visual/manual; selection-003.json
