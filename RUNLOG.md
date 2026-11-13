@@ -178,3 +178,6 @@ Historical entries are reconstructed from saved artifacts, not contemporaneous l
 2026-11-13T15:39:59.328Z | S3-expiry | unknown | xCaptcha pF8+iSs offered aftertwo shapes, clicked tiles; Confirm timed out as challenge expired, Solved2/Earned0.0009 unchanged; no confirmed submission | unknown | no confirmed submission
 2026-11-13T15:40:33.074Z | S3-expiry | unknown | text949468 expired before confirmed submission, screenshot18sec remained but transport missed timer | unknown | no confirmed submission
 2026-11-13T15:47:21.507Z | S3-final | n/a | stopped at verified balance0.010149;51paidaccepts/57engaged | n/a | single browser alive/dashboard; no withdrawal
+
+## New goal / same-account reconnaissance
+Target updated to $0.02. No new paid attempts; exact last balance $0.010149. Checked authenticated /job and /enterpage; /cabinet redirects to game in both dashboard modes. Ranked actual rates and incomplete catalogue in findings/worker-access.md. Detailed worker FAQ explicitly publishes no exact allowed mistake count; records three restriction stages. Numeric accuracy/rating threshold remains unverified. Created findings/spawn-protocol.md. Pending mistakes-page check, fuller rates/software enumeration and high-rate-only earning.
