@@ -1,0 +1,14 @@
+# Never publish authentication material or live profiles
+creds
+.env
+.env.*
+!creds.example
+*token*
+*cookie*
+*storage-state*
+profile/
+node_modules/
+*.png
+*.jpg
+*.webp
+*.har

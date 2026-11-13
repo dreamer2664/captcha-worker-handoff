@@ -1,0 +1,14 @@
+{
+  "status": "INCOMPLETE_SUBMISSION_UNCONFIRMED",
+  "challengePresented": "Y",
+  "challengeType": "training text-image",
+  "answerRead": "tun",
+  "answerSubmitted": "unconfirmed",
+  "acceptedOrRejected": "unknown",
+  "elapsedMs": null,
+  "creditsBeforeUSD": 0,
+  "creditsAfterUSD": 0,
+  "challengeScreenshot": "/home/user/browser-probe/challenge.png",
+  "finalScreenshot": "/home/user/browser-probe/smoke-final.png",
+  "stopped": true
+}

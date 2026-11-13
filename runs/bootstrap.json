@@ -1,0 +1,16 @@
+{
+  "status": "historical_import",
+  "memoryCeilingBytes": 1944928256,
+  "initialSystemUsedRAMBytes": 512569344,
+  "nproc": 2,
+  "browserTreePeakRSSKiB": 924276,
+  "samplingMs": 100,
+  "egress": "DNS and HTTPS verified",
+  "snapshot": "profile survived observed restore; node_modules/browser cache did not",
+  "initialBrowserLaunch": "missing libnspr4.so; dependencies installed; second launch succeeded",
+  "limitations": [
+    "RSS sums double-count shared memory",
+    "visible RAM does not prove production isolation",
+    "Playwright default included --no-sandbox"
+  ]
+}

@@ -1,0 +1,8 @@
+# Documentation only — no values or live authentication material.
+# Existing worker credential file (outside this repo):
+# /home/user/browser-probe/creds — required mode 0600
+# Disk-backed authenticated Chromium profile (outside this repo):
+# /home/user/browser-probe/profile — treat as secret, never commit
+# Obtain credentials from the account owner if absent; do not reconstruct them.
+# Repo auth: use an owner-approved authenticated gh session or short-lived env token.
+# Never store tokens in git remotes, source, logs, or commits.
