@@ -1,0 +1,21 @@
+{
+  "index": "handoff-status",
+  "recordedAt": "2026-11-13T13:00:18.878665+00:00",
+  "status": "target_not_reached_manual_browser_tool_missing",
+  "newAttempts": 0,
+  "newAccepted": 0,
+  "historicalPaidAttemptsConfirmed": 11,
+  "historicalPaidAccepted": 11,
+  "historicalTrainingRejectedSubmissions": 4,
+  "initialTrainingSmokeSubmission": "unconfirmed; excluded from confirmed counts",
+  "lastObservedAccountBalanceUSD": 0.0015,
+  "balanceLiveRefreshedThisTurn": false,
+  "targetUSD": 0.01,
+  "observedTextCreditPerItemUSD": 0.0001,
+  "additionalAcceptancesAtObservedTextRate": 85,
+  "remoteCreated": false,
+  "remoteReason": "gh absent and auth environment variables unset; local fallback requested",
+  "browserTouchedThisTurn": false,
+  "browserLivenessRefreshedThisTurn": false,
+  "secretsCommitted": false
+}

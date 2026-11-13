@@ -33,3 +33,5 @@ Historical entries are reconstructed from saved artifacts, not contemporaneous l
 2026-11-13T12:58:54.196330+00:00 | T2-retry-2 | 506592 | rejected; progress unchanged | unknown | recorded_at; event_time unknown; reconstructed from tool transcript
 2026-11-13T12:58:54.196330+00:00 | T3-retry-1 | 55smmm | rejected; progress unchanged | unknown | recorded_at; event_time unknown; reconstructed from tool transcript
 2026-11-13T12:58:54.196330+00:00 | T3-retry-2 | 55smmm | rejected; progress unchanged | unknown | recorded_at; event_time unknown; reconstructed from tool transcript
+2026-11-13T13:00:18.878665+00:00 | INITIAL-SMOKE | tun (read only; submission unknown) | unconfirmed | unknown | recorded_at; event_time unknown; retrospective correction: not counted accepted
+2026-11-13T13:00:18.878665+00:00 | HANDOFF-TURN | none | no challenge actions; manual-only tooling conflict | unknown | record-only turn; no new attempts
