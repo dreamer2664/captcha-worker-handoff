@@ -947,12 +947,118 @@
       "before": "Training progress 4/5",
       "after": "Training progress 5/5",
       "screenshot": "/home/user/browser-probe/training/217-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:37:21.182Z",
+      "index": 84,
+      "type": "click-shape",
+      "answer": "stone top-right (748,461)",
+      "accepted": true,
+      "elapsedMs": 602,
+      "before": 0,
+      "after": "1",
+      "earned": "0.00045",
+      "screenshot": "/home/user/browser-probe/training/218-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:37:51.705Z",
+      "index": 85,
+      "type": "click-shape",
+      "answer": "stone bottom-left",
+      "accepted": true,
+      "elapsedMs": 16207,
+      "before": 1,
+      "after": "2",
+      "earned": "0.0009",
+      "screenshot": "/home/user/browser-probe/training/219-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:41:15.213Z",
+      "index": 86,
+      "type": "click-stones",
+      "answer": "light marks ascending: lower-left,lower-right,upper-right,upper-left",
+      "accepted": true,
+      "elapsedMs": 23630,
+      "before": 2,
+      "after": "3",
+      "earned": "0.00135",
+      "screenshot": "/home/user/browser-probe/training/220-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:41:57.607Z",
+      "index": 87,
+      "type": "click-shape",
+      "answer": "stone bottom-left",
+      "accepted": true,
+      "elapsedMs": 24343,
+      "before": 3,
+      "after": "4",
+      "earned": "0.0018",
+      "screenshot": "/home/user/browser-probe/training/221-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:42:29.739Z",
+      "index": 88,
+      "type": "click-images",
+      "answer": "writing: middle-right chalk,bottom-right pens",
+      "accepted": true,
+      "elapsedMs": 22602,
+      "before": 4,
+      "after": "5",
+      "earned": "0.0019",
+      "screenshot": "/home/user/browser-probe/training/222-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:43:07.722Z",
+      "index": 89,
+      "type": "text",
+      "answer": "NJWGR",
+      "accepted": true,
+      "elapsedMs": 20434,
+      "before": 5,
+      "after": "6",
+      "earned": "0.002",
+      "screenshot": "/home/user/browser-probe/training/223-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:44:07.050Z",
+      "index": 90,
+      "type": "xcaptcha-assembly",
+      "answer": "RGS + TCH",
+      "accepted": true,
+      "elapsedMs": 21637,
+      "before": 6,
+      "after": "7",
+      "earned": "0.0025",
+      "outcome": "accepted-delayed-counter"
+    },
+    {
+      "iso": "2026-11-13T15:44:49.131Z",
+      "index": 91,
+      "type": "click-images",
+      "answer": "ice cream safe: top-right refrigerator",
+      "accepted": true,
+      "elapsedMs": 21621,
+      "before": 7,
+      "after": "8",
+      "earned": "0.0026",
+      "screenshot": "/home/user/browser-probe/training/224-selection-accepted.png"
     }
   ],
   "assemblyAppearances": [
     {
       "iso": "2026-11-13T14:39:12.794Z",
       "stage": "first offer after same-profile browser recovery and queue re-entry",
+      "rate": 0.5
+    },
+    {
+      "iso": "2026-11-13T15:38:43.178Z",
+      "stage": "after gate11 and two paidshape tasks",
+      "rate": 0.5
+    },
+    {
+      "iso": "2026-11-13T15:43:45.412Z",
+      "stage": "afterfour shapes,two lowrate items",
       "rate": 0.5
     }
   ],
@@ -976,6 +1082,22 @@
     {
       "iso": "2026-11-13T15:26:19.231Z",
       "event": "animated text partial676 submitted to minimum-length modal then expired before confirmation; no paid reject confirmed"
+    },
+    {
+      "iso": "2026-11-13T15:36:23.790Z",
+      "event": "postgate11 returned stopped Start solve; Start clicked, no fresh task25s; dashboard reentry"
+    },
+    {
+      "iso": "2026-11-13T15:37:20.580Z",
+      "event": "new paid click-shape task posted0.45/1000; input/iframe wait falsely treated as no task; inspected screenshot"
+    },
+    {
+      "iso": "2026-11-13T15:39:59.328Z",
+      "event": "xCaptcha pF8+iSs offered aftertwo shapes, clicked tiles; Confirm timed out as challenge expired, Solved2/Earned0.0009 unchanged; no confirmed submission"
+    },
+    {
+      "iso": "2026-11-13T15:40:33.074Z",
+      "event": "text949468 expired before confirmed submission, screenshot18sec remained but transport missed timer"
     }
   ],
   "checks": [
@@ -1034,6 +1156,14 @@
       "accountHeader": "0.006899",
       "cumulativeQueueCredit": "0.0044",
       "headerDelta": "0.004399"
+    },
+    {
+      "iso": "2026-11-13T15:45:48.737Z",
+      "paidAccepted": 50,
+      "accountHeader": "0.009699",
+      "cumulativeQueueCredit": "0.0072",
+      "headerDelta": "0.007199",
+      "lastTenDelta": "0.0028"
     }
   ]
 }

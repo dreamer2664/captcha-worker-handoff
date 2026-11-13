@@ -164,3 +164,12 @@ Historical entries are reconstructed from saved artifacts, not contemporaneous l
 2026-11-13T15:32:36.260Z | S3-81 | 624 | accepted training | 17878 | discrete visual/manual; selection-003.json
 2026-11-13T15:32:51.993Z | S3-82 | 2 | accepted training | 15563 | discrete visual/manual; selection-003.json
 2026-11-13T15:34:07.459Z | S3-83 | click G,j,z,h | accepted training | 20725 | discrete visual/manual; selection-003.json
+
+2026-11-13T15:37:21.182Z | S3-84 | stone top-right (748,461) | accepted click-shape | 602 | discrete visual/manual; selection-003.json
+2026-11-13T15:37:51.705Z | S3-85 | stone bottom-left | accepted click-shape | 16207 | discrete visual/manual; selection-003.json
+2026-11-13T15:41:15.213Z | S3-86 | light marks ascending: lower-left,lower-right,upper-right,upper-left | accepted click-stones | 23630 | discrete visual/manual; selection-003.json
+2026-11-13T15:41:57.607Z | S3-87 | stone bottom-left | accepted click-shape | 24343 | discrete visual/manual; selection-003.json
+2026-11-13T15:42:29.739Z | S3-88 | writing: middle-right chalk,bottom-right pens | accepted click-images | 22602 | discrete visual/manual; selection-003.json
+2026-11-13T15:43:07.722Z | S3-89 | NJWGR | accepted text | 20434 | discrete visual/manual; selection-003.json
+2026-11-13T15:44:07.050Z | S3-90 | RGS + TCH | accepted-delayed-counter xcaptcha-assembly | 21637 | discrete visual/manual; selection-003.json
+2026-11-13T15:44:49.131Z | S3-91 | ice cream safe: top-right refrigerator | accepted click-images | 21621 | discrete visual/manual; selection-003.json
