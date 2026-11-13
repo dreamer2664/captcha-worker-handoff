@@ -1,0 +1,76 @@
+{
+  "index": "training-01",
+  "status": "completed",
+  "attempted": 5,
+  "accepted": 5,
+  "rejected": 0,
+  "expired": 0,
+  "rows": [
+    {
+      "index": 1,
+      "answer": "tun",
+      "fieldConfirmed": true,
+      "submitted": true,
+      "before": "Training progress 0/5",
+      "after": "Training progress 1/5",
+      "elapsedMs": 9236,
+      "submitToObservationMs": 733,
+      "filledScreenshot": "/home/user/browser-probe/training/004-filled.png",
+      "resultScreenshot": "/home/user/browser-probe/training/005-after-submit.png",
+      "conditionObserved": true
+    },
+    {
+      "index": 2,
+      "answer": "orqe",
+      "fieldConfirmed": true,
+      "submitted": true,
+      "before": "Training progress 1/5",
+      "after": "Training progress 2/5",
+      "elapsedMs": 7687,
+      "submitToObservationMs": 592,
+      "filledScreenshot": "/home/user/browser-probe/training/006-filled.png",
+      "resultScreenshot": "/home/user/browser-probe/training/007-after-submit.png",
+      "conditionObserved": true
+    },
+    {
+      "index": 3,
+      "answer": "iqkmpr",
+      "fieldConfirmed": true,
+      "submitted": true,
+      "before": "Training progress 2/5",
+      "after": "Training progress 3/5",
+      "elapsedMs": 13669,
+      "submitToObservationMs": 732,
+      "filledScreenshot": "/home/user/browser-probe/training/009-filled.png",
+      "resultScreenshot": "/home/user/browser-probe/training/010-after-submit.png",
+      "conditionObserved": true
+    },
+    {
+      "index": 4,
+      "answer": "codzolk",
+      "fieldConfirmed": true,
+      "submitted": true,
+      "before": "Training progress 3/5",
+      "after": "Training progress 4/5",
+      "elapsedMs": 9363,
+      "submitToObservationMs": 571,
+      "filledScreenshot": "/home/user/browser-probe/training/011-filled.png",
+      "resultScreenshot": "/home/user/browser-probe/training/012-after-submit.png",
+      "conditionObserved": true
+    },
+    {
+      "index": 5,
+      "answer": "dq",
+      "fieldConfirmed": true,
+      "submitted": true,
+      "before": "Training progress 4/5",
+      "after": "Training progress 5/5",
+      "elapsedMs": 14010,
+      "submitToObservationMs": 741,
+      "filledScreenshot": "/home/user/browser-probe/training/014-filled.png",
+      "resultScreenshot": "/home/user/browser-probe/training/015-after-submit.png",
+      "conditionObserved": true
+    }
+  ],
+  "provenance": "retrospective import; absolute screenshot paths refer to original workspace"
+}
