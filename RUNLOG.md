@@ -65,3 +65,16 @@ Historical entries are reconstructed from saved artifacts, not contemporaneous l
 2026-11-13T13:21:45.992Z | MANUAL-EVENT | none | paid animated task expired before HFBTG could be filled; no submission | unknown | additional observed event
 2026-11-13T13:23:00.720Z | MANUAL-EVENT | none | paid animated task expired after ZVMA readback, before submit button action; no acceptance | unknown | additional observed event
 2026-11-13T13:25:16.586750+00:00 | BATCH-2-CORRECTION | P2lw2 | rejected, visually observed correction P21w2 | unknown | was outside primary rows; event_time unknown
+
+2026-11-13T14:39:38.476Z | S3-1 | K9C + G6Z | accepted xcaptcha-assembly | 33902 | discrete visual/manual; selection-003.json
+2026-11-13T14:42:11.686Z | S3-2 | 1q291e | accepted text | 25726 | discrete visual/manual; selection-003.json
+2026-11-13T14:43:42.749Z | S3-3 | 32 | accepted training | 25847 | discrete visual/manual; selection-003.json
+2026-11-13T14:44:15.746Z | S3-4 | 27 | rejected training | 26077 | discrete visual/manual; selection-003.json
+2026-11-13T14:45:30.729Z | S3-5 | 25 | accepted training | 23296 | discrete visual/manual; selection-003.json
+2026-11-13T14:46:06.896Z | S3-6 | 3 | rejected training | 27455 | discrete visual/manual; selection-003.json
+2026-11-13T14:47:23.557Z | S3-7 | 9 | accepted training | 21905 | discrete visual/manual; selection-003.json
+2026-11-13T14:47:34.673Z | S3-8 | 8-4+2 | accepted training | 7728 | discrete visual/manual; selection-003.json
+2026-11-13T14:47:45.556Z | S3-9 | 6 | accepted training | 8209 | discrete visual/manual; selection-003.json
+2026-11-13T14:48:25.697Z | S3-10 | RK8VY | accepted text | 7953 | discrete visual/manual; selection-003.json
+2026-11-13T14:41:00.759Z | S3-expiry-1 | unknown | expired animated text, no confirmed submission | unknown | five-second target missed
+2026-11-13T14:39:12.794Z | S3-assembly-appearance-1 | n/a | offered $0.50/1000 | n/a | first offer after recovered-profile reentry; not proof of waves

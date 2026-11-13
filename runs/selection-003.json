@@ -1,0 +1,140 @@
+{
+  "started": "2026-11-13T14:38:45.381Z",
+  "baseline": 0.0025,
+  "rows": [
+    {
+      "iso": "2026-11-13T14:39:38.476Z",
+      "index": 1,
+      "type": "xcaptcha-assembly",
+      "answer": "K9C + G6Z",
+      "accepted": true,
+      "elapsedMs": 33902,
+      "earned": "0.0005",
+      "solved": "1",
+      "screenshot": "/home/user/browser-probe/training/147-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:42:11.686Z",
+      "index": 2,
+      "type": "text",
+      "answer": "1q291e",
+      "accepted": true,
+      "elapsedMs": 25726,
+      "before": 1,
+      "after": "2",
+      "earned": "0.0006",
+      "screenshot": "/home/user/browser-probe/training/148-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:43:42.749Z",
+      "index": 3,
+      "type": "training",
+      "answer": "32",
+      "accepted": true,
+      "elapsedMs": 25847,
+      "before": "Training progress 0/5",
+      "after": "Training progress 1/5",
+      "screenshot": "/home/user/browser-probe/training/149-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:44:15.746Z",
+      "index": 4,
+      "type": "training",
+      "answer": "27",
+      "accepted": false,
+      "elapsedMs": 26077,
+      "before": "Training progress 1/5",
+      "after": "Training progress 1/5"
+    },
+    {
+      "iso": "2026-11-13T14:45:30.729Z",
+      "index": 5,
+      "type": "training",
+      "answer": "25",
+      "accepted": true,
+      "elapsedMs": 23296,
+      "before": "Training progress 1/5",
+      "after": "Training progress 2/5",
+      "screenshot": "/home/user/browser-probe/training/150-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:46:06.896Z",
+      "index": 6,
+      "type": "training",
+      "answer": "3",
+      "accepted": false,
+      "elapsedMs": 27455,
+      "before": "Training progress 2/5",
+      "after": "Training progress 2/5"
+    },
+    {
+      "iso": "2026-11-13T14:47:23.557Z",
+      "index": 7,
+      "type": "training",
+      "answer": "9",
+      "accepted": true,
+      "elapsedMs": 21905,
+      "before": "Training progress 2/5",
+      "after": "Training progress 3/5",
+      "screenshot": "/home/user/browser-probe/training/151-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:47:34.673Z",
+      "index": 8,
+      "type": "training",
+      "answer": "8-4+2",
+      "accepted": true,
+      "elapsedMs": 7728,
+      "before": "Training progress 3/5",
+      "after": "Training progress 4/5",
+      "screenshot": "/home/user/browser-probe/training/152-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:47:45.556Z",
+      "index": 9,
+      "type": "training",
+      "answer": "6",
+      "accepted": true,
+      "elapsedMs": 8209,
+      "before": "Training progress 4/5",
+      "after": "Training progress 5/5",
+      "screenshot": "/home/user/browser-probe/training/153-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:48:25.697Z",
+      "index": 10,
+      "type": "text",
+      "answer": "RK8VY",
+      "accepted": true,
+      "elapsedMs": 7953,
+      "before": 2,
+      "after": "3",
+      "earned": "0.0007",
+      "screenshot": "/home/user/browser-probe/training/154-selection-accepted.png"
+    }
+  ],
+  "assemblyAppearances": [
+    {
+      "iso": "2026-11-13T14:39:12.794Z",
+      "stage": "first offer after same-profile browser recovery and queue re-entry",
+      "rate": 0.5
+    }
+  ],
+  "anomalies": [
+    {
+      "iso": "2026-11-13T14:41:00.759Z",
+      "event": "animated text task expired during screenshot inspection; no confirmed submission; five-second target missed"
+    }
+  ],
+  "checks": [
+    {
+      "iso": "2026-11-13T14:48:58.447Z",
+      "paidAccepted": 3,
+      "queueEarned": "0.0007",
+      "accountHeader": "0.003199",
+      "baseline": "0.0025",
+      "headerDelta": "0.000699",
+      "note": "one-millionth display discrepancy recorded only"
+    }
+  ]
+}

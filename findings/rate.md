@@ -14,3 +14,5 @@ Post-batch account header $0.002499, delta from $0.0015 = $0.000999. Queue earni
 
 ## Assembly-priority selection revision
 Owner requests accepting every xCaptcha assembly offered, timestamping appearances, and using text filler. No wave/scheduling pattern is established by one historical sample. The three prior paid expiries were animated text-image tasks, not xCaptcha assembly. From $0.002499, 15 x $0.0005 yields $0.009999 (not a crossing). On current-session recovery, dashboard displayed $0.0025; from that fresh observation 15 assembly credits would reach exactly $0.01. Rates and actual credited balance remain ground truth.
+
+Selection checkpoint: paid3 queue +$0.0007 = assembly0.0005 + two texts0.0001. Header $0.003199 vs recovered baseline$0.0025, delta$0.000699. Record one-millionth display discrepancy only; no type-specific underpayment evidence.
