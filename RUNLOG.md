@@ -124,3 +124,13 @@ Historical entries are reconstructed from saved artifacts, not contemporaneous l
 2026-11-13T15:11:21.278Z | S3-47 | 3exl7b | accepted training | 13711 | discrete visual/manual; selection-003.json
 2026-11-13T15:11:37.391Z | S3-48 | huyvau | rejected training | 15910 | discrete visual/manual; selection-003.json
 2026-11-13T15:12:06.055Z | S3-49 | wy8ya | accepted training | 28550 | discrete visual/manual; selection-003.json
+
+2026-11-13T15:12:38.458Z | S3-50 | 7088T | accepted text | 12647 | discrete visual/manual; selection-003.json
+2026-11-13T15:13:04.492Z | S3-51 | KD2JZ | accepted text | 12493 | discrete visual/manual; selection-003.json
+2026-11-13T15:13:24.789Z | S3-52 | RTFG7P | accepted text | 15356 | discrete visual/manual; selection-003.json
+2026-11-13T15:13:52.605Z | S3-53 | 774572 | accepted text | 14327 | discrete visual/manual; selection-003.json
+2026-11-13T15:14:19.437Z | S3-54 | VT9D2J | accepted text | 13342 | discrete visual/manual; selection-003.json
+2026-11-13T15:17:16.251Z | S3-55 | LQGUKA | accepted text | 13884 | discrete visual/manual; selection-003.json
+2026-11-13T15:17:44.895Z | S3-56 | LNTF2 | accepted text | 14623 | discrete visual/manual; selection-003.json
+2026-11-13T15:18:40.604Z | S3-57 | X6KH56 | accepted text | 12836 | discrete visual/manual; selection-003.json
+2026-11-13T15:15:20Z | S3-expiry-2 | partial H2O | animated text expired without confirmed submission | unknown | screenshot timing exceeded cap

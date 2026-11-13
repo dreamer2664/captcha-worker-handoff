@@ -555,6 +555,102 @@
       "before": "Training progress 4/5",
       "after": "Training progress 5/5",
       "screenshot": "/home/user/browser-probe/training/188-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:12:38.458Z",
+      "index": 50,
+      "type": "text",
+      "answer": "7088T",
+      "accepted": true,
+      "elapsedMs": 12647,
+      "before": 2,
+      "after": "3",
+      "earned": "0.0003",
+      "screenshot": "/home/user/browser-probe/training/189-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:13:04.492Z",
+      "index": 51,
+      "type": "text",
+      "answer": "KD2JZ",
+      "accepted": true,
+      "elapsedMs": 12493,
+      "before": 3,
+      "after": "4",
+      "earned": "0.0004",
+      "screenshot": "/home/user/browser-probe/training/190-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:13:24.789Z",
+      "index": 52,
+      "type": "text",
+      "answer": "RTFG7P",
+      "accepted": true,
+      "elapsedMs": 15356,
+      "before": 4,
+      "after": "5",
+      "earned": "0.0005",
+      "screenshot": "/home/user/browser-probe/training/191-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:13:52.605Z",
+      "index": 53,
+      "type": "text",
+      "answer": "774572",
+      "accepted": true,
+      "elapsedMs": 14327,
+      "before": 5,
+      "after": "6",
+      "earned": "0.0006",
+      "screenshot": "/home/user/browser-probe/training/192-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:14:19.437Z",
+      "index": 54,
+      "type": "text",
+      "answer": "VT9D2J",
+      "accepted": true,
+      "elapsedMs": 13342,
+      "before": 6,
+      "after": "7",
+      "earned": "0.0007",
+      "screenshot": "/home/user/browser-probe/training/193-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:17:16.251Z",
+      "index": 55,
+      "type": "text",
+      "answer": "LQGUKA",
+      "accepted": true,
+      "elapsedMs": 13884,
+      "before": 7,
+      "after": "8",
+      "earned": "0.0008",
+      "screenshot": "/home/user/browser-probe/training/194-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:17:44.895Z",
+      "index": 56,
+      "type": "text",
+      "answer": "LNTF2",
+      "accepted": true,
+      "elapsedMs": 14623,
+      "before": 8,
+      "after": "9",
+      "earned": "0.0009",
+      "screenshot": "/home/user/browser-probe/training/195-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:18:40.604Z",
+      "index": 57,
+      "type": "text",
+      "answer": "X6KH56",
+      "accepted": true,
+      "elapsedMs": 12836,
+      "before": 0,
+      "after": "1",
+      "earned": "0.0001",
+      "screenshot": "/home/user/browser-probe/training/196-selection-accepted.png"
     }
   ],
   "assemblyAppearances": [
@@ -576,6 +672,10 @@
     {
       "iso": "2026-11-13T15:04:50.971Z",
       "event": "refresh+Start solve restored previous segment counters8/0.0008 but no task >60s; dashboard reentry"
+    },
+    {
+      "iso": "2026-11-13T15:15:28.756Z",
+      "event": "animated text partial H2O expired during inspection; no confirmed submission; five-second cap missed"
     }
   ],
   "checks": [
@@ -613,6 +713,20 @@
       "baseline": "0.0025",
       "headerDelta": "0.002399",
       "note": "record one-millionth discrepancy only"
+    },
+    {
+      "iso": "2026-11-13T15:18:13.770Z",
+      "paidAccepted": 29,
+      "accountHeader": "0.005799",
+      "cumulativeQueueCredit": "0.0033",
+      "note": "early check; raw row count29, not30"
+    },
+    {
+      "iso": "2026-11-13T15:19:04.549Z",
+      "paidAccepted": 30,
+      "accountHeader": "0.005899",
+      "cumulativeQueueCredit": "0.0034",
+      "headerDelta": "0.003399"
     }
   ]
 }
