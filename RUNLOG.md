@@ -78,3 +78,15 @@ Historical entries are reconstructed from saved artifacts, not contemporaneous l
 2026-11-13T14:48:25.697Z | S3-10 | RK8VY | accepted text | 7953 | discrete visual/manual; selection-003.json
 2026-11-13T14:41:00.759Z | S3-expiry-1 | unknown | expired animated text, no confirmed submission | unknown | five-second target missed
 2026-11-13T14:39:12.794Z | S3-assembly-appearance-1 | n/a | offered $0.50/1000 | n/a | first offer after recovered-profile reentry; not proof of waves
+
+2026-11-13T14:49:33.854Z | S3-11 | R9A38 | accepted text | 9130 | discrete visual/manual; selection-003.json
+2026-11-13T14:50:01.240Z | S3-12 | 9W8K7 | accepted text | 9780 | discrete visual/manual; selection-003.json
+2026-11-13T14:50:25.616Z | S3-13 | 4HGB | accepted text | 10814 | discrete visual/manual; selection-003.json
+2026-11-13T14:50:41.586Z | S3-14 | 5U7V2 | accepted text | 10662 | discrete visual/manual; selection-003.json
+2026-11-13T14:51:02.163Z | S3-15 | 7ycntr | rejected training | 13477 | discrete visual/manual; selection-003.json
+2026-11-13T14:51:17.604Z | S3-16 | 7ycntt | accepted training | 12150 | discrete visual/manual; selection-003.json
+2026-11-13T14:51:35.480Z | S3-17 | JQA3Lg | accepted training | 13836 | discrete visual/manual; selection-003.json
+2026-11-13T14:51:51.079Z | S3-18 | PXAZGC | accepted training | 11577 | discrete visual/manual; selection-003.json
+2026-11-13T14:52:07.745Z | S3-19 | SMV6BR | accepted training | 11977 | discrete visual/manual; selection-003.json
+2026-11-13T14:52:24.482Z | S3-20 | j7f5w3x7965 | rejected training | 13700 | discrete visual/manual; selection-003.json
+2026-11-13T14:52:39.888Z | S3-21 | jfkf3w3h49cg | accepted training | 11179 | discrete visual/manual; selection-003.json
