@@ -35,3 +35,33 @@ Historical entries are reconstructed from saved artifacts, not contemporaneous l
 2026-11-13T12:58:54.196330+00:00 | T3-retry-2 | 55smmm | rejected; progress unchanged | unknown | recorded_at; event_time unknown; reconstructed from tool transcript
 2026-11-13T13:00:18.878665+00:00 | INITIAL-SMOKE | tun (read only; submission unknown) | unconfirmed | unknown | recorded_at; event_time unknown; retrospective correction: not counted accepted
 2026-11-13T13:00:18.878665+00:00 | HANDOFF-TURN | none | no challenge actions; manual-only tooling conflict | unknown | record-only turn; no new attempts
+2026-11-13T13:05:15.992Z | MANUAL-1 | R6N38M | accepted | 22524 | paid
+2026-11-13T13:05:52.292Z | MANUAL-2 | F87M9Y | accepted | 18680 | paid
+2026-11-13T13:06:28.358Z | MANUAL-3 | JDQMDM | accepted | 18466 | paid
+2026-11-13T13:07:11.440Z | MANUAL-4 | Gdj5Lz | rejected-progress-unchanged | 22445 | training
+2026-11-13T13:08:20.151Z | MANUAL-5 | gay5lz | accepted | 17593 | training
+2026-11-13T13:08:42.169Z | MANUAL-6 | Ha7apb | accepted | 16644 | training
+2026-11-13T13:09:06.283Z | MANUAL-7 | 5tpy7p | accepted | 18426 | training
+2026-11-13T13:09:36.841Z | MANUAL-8 | P2Iw2 | unconfirmed-modal/progress-unchanged | 24517 | training
+2026-11-13T13:10:20.143Z | MANUAL-9 | P2tw2 | unconfirmed-modal/progress-unchanged | 23201 | training
+2026-11-13T13:12:09.076Z | MANUAL-10 | P21w2 | accepted | 6871 | training
+2026-11-13T13:12:30.194Z | MANUAL-11 | [Cannot solve — instructed by training] | accepted | 13814 | training
+2026-11-13T13:13:08.024Z | MANUAL-12 | 464422 | accepted | 17050 | paid
+2026-11-13T13:14:55.173Z | MANUAL-13 | W3VPZG | accepted | 21449 | paid
+2026-11-13T13:15:36.925Z | MANUAL-14 | BG34 | accepted | 24352 | paid
+2026-11-13T13:16:14.333Z | MANUAL-15 | 6384ZQ | accepted | 19790 | paid
+2026-11-13T13:16:50.748Z | MANUAL-16 | 5RHVH | accepted | 18689 | paid
+2026-11-13T13:17:34.280Z | MANUAL-17 | nmkhv | rejected-progress-unchanged | 24144 | training
+2026-11-13T13:18:44.293Z | MANUAL-18 | nmkhy | accepted | 23127 | training
+2026-11-13T13:19:17.144Z | MANUAL-19 | 5e678 | accepted | 24791 | training
+2026-11-13T13:19:44.224Z | MANUAL-20 | nat4iuu | accepted | 21241 | training
+2026-11-13T13:20:07.837Z | MANUAL-21 | [Cannot solve — Cyrillic task] | accepted | 17825 | training
+2026-11-13T13:20:30.976Z | MANUAL-22 | [Cannot solve — Cyrillic words] | accepted | 15379 | training
+2026-11-13T13:23:47.631Z | MANUAL-23 | HCU6EN | accepted | 28992 | paid
+2026-11-13T13:24:33.263Z | MANUAL-24 | V6MYWZ | accepted | 27852 | paid
+2026-11-13T13:08:02.249Z | MANUAL-EVENT | none | expired/stopped before corrected answer could submit; no success counted | unknown | additional observed event
+2026-11-13T13:12:02.152Z | MANUAL-EVENT | P2lw2 | rejected | unknown | additional observed event
+2026-11-13T13:14:10.032Z | MANUAL-EVENT | none | paid animated task expired before fill; read F347 not submitted | unknown | additional observed event
+2026-11-13T13:21:45.992Z | MANUAL-EVENT | none | paid animated task expired before HFBTG could be filled; no submission | unknown | additional observed event
+2026-11-13T13:23:00.720Z | MANUAL-EVENT | none | paid animated task expired after ZVMA readback, before submit button action; no acceptance | unknown | additional observed event
+2026-11-13T13:25:16.586750+00:00 | BATCH-2-CORRECTION | P2lw2 | rejected, visually observed correction P21w2 | unknown | was outside primary rows; event_time unknown

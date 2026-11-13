@@ -1,0 +1,345 @@
+{
+  "summary": {
+    "index": 2,
+    "attempted": 13,
+    "submitted": 10,
+    "accepted": 10,
+    "rejected": 0,
+    "expired": 3,
+    "meanElapsedMs": 21784,
+    "accountBalanceBefore": 0.0015,
+    "accountBalanceAfter": 0.002499,
+    "accountBalanceDelta": 0.000999,
+    "queueEarningsDelta": 0.001,
+    "rateCheck3": {
+      "earned": "0.0003",
+      "delta": 0.0003,
+      "posted": "Rate: $0.10 per 1000 captchas.",
+      "paidAccepted": 3
+    },
+    "rateCheck10": {
+      "earned": "0.001",
+      "delta": 0.001,
+      "posted": "Rate: $0.10 per 1000 captchas.",
+      "paidAccepted": 10,
+      "paidExpiredBeforeSubmission": 3
+    },
+    "anomalies": [
+      "Three animated tasks expired before submission; their candidate reads were F347, HFBTG, ZVMA.",
+      "Gates 4 and 5 completed: ten accepted training actions including three instructed Cannot solve actions.",
+      "Gdj5Lz and nmkhv rejected; P2lw2 also rejected outside main row log. P2Iw2/P2tw2 failed to advance while an instructions-confirmation modal was present; not proven server rejections.",
+      "Timer stopped training several times; restarted same page; correction read visually from screenshot.",
+      "Account header 0.002499 vs queue-implied 0.002500: 0.000001 discrepancy retained without investigation.",
+      "Manual inspection/readback tool turnaround exceeded 8\u201315 seconds on most items."
+    ]
+  },
+  "rows": [
+    {
+      "iso": "2026-11-13T13:05:15.992Z",
+      "index": 1,
+      "answer": "R6N38M",
+      "training": false,
+      "accepted": true,
+      "elapsedMs": 22524,
+      "before": 0,
+      "after": 1,
+      "earned": "0.0001",
+      "postedRate": "Rate: $0.10 per 1000 captchas.",
+      "screenshot": "/home/user/browser-probe/training/127-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:05:52.292Z",
+      "index": 2,
+      "answer": "F87M9Y",
+      "training": false,
+      "accepted": true,
+      "elapsedMs": 18680,
+      "before": 1,
+      "after": 2,
+      "earned": "0.0002",
+      "postedRate": "Rate: $0.10 per 1000 captchas.",
+      "screenshot": "/home/user/browser-probe/training/128-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:06:28.358Z",
+      "index": 3,
+      "answer": "JDQMDM",
+      "training": false,
+      "accepted": true,
+      "elapsedMs": 18466,
+      "before": 2,
+      "after": 3,
+      "earned": "0.0003",
+      "postedRate": "Rate: $0.10 per 1000 captchas.",
+      "screenshot": "/home/user/browser-probe/training/129-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:07:11.440Z",
+      "index": 4,
+      "answer": "Gdj5Lz",
+      "training": true,
+      "accepted": false,
+      "elapsedMs": 22445,
+      "before": "Training progress 0/5",
+      "after": "Training progress 0/5"
+    },
+    {
+      "iso": "2026-11-13T13:08:20.151Z",
+      "index": 5,
+      "answer": "gay5lz",
+      "training": true,
+      "accepted": true,
+      "elapsedMs": 17593,
+      "before": "Training progress 0/5",
+      "after": "Training progress 1/5",
+      "screenshot": "/home/user/browser-probe/training/130-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:08:42.169Z",
+      "index": 6,
+      "answer": "Ha7apb",
+      "training": true,
+      "accepted": true,
+      "elapsedMs": 16644,
+      "before": "Training progress 1/5",
+      "after": "Training progress 2/5",
+      "screenshot": "/home/user/browser-probe/training/131-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:09:06.283Z",
+      "index": 7,
+      "answer": "5tpy7p",
+      "training": true,
+      "accepted": true,
+      "elapsedMs": 18426,
+      "before": "Training progress 2/5",
+      "after": "Training progress 3/5",
+      "screenshot": "/home/user/browser-probe/training/132-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:09:36.841Z",
+      "index": 8,
+      "answer": "P2Iw2",
+      "training": true,
+      "accepted": false,
+      "elapsedMs": 24517,
+      "before": "Training progress 3/5",
+      "after": "Training progress 3/5"
+    },
+    {
+      "iso": "2026-11-13T13:10:20.143Z",
+      "index": 9,
+      "answer": "P2tw2",
+      "training": true,
+      "accepted": false,
+      "elapsedMs": 23201,
+      "before": "Training progress 3/5",
+      "after": "Training progress 3/5"
+    },
+    {
+      "iso": "2026-11-13T13:12:09.076Z",
+      "index": 10,
+      "answer": "P21w2",
+      "training": true,
+      "accepted": true,
+      "elapsedMs": 6871,
+      "before": "Training progress 3/5",
+      "after": "Training progress 4/5",
+      "screenshot": "/home/user/browser-probe/training/133-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:12:30.194Z",
+      "index": 11,
+      "training": true,
+      "answer": "[Cannot solve \u2014 instructed by training]",
+      "accepted": true,
+      "before": "4/5",
+      "after": "5/5",
+      "elapsedMs": 13814,
+      "screenshot": "/home/user/browser-probe/training/134-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:13:08.024Z",
+      "index": 12,
+      "answer": "464422",
+      "training": false,
+      "accepted": true,
+      "elapsedMs": 17050,
+      "before": 3,
+      "after": 4,
+      "earned": "0.0004",
+      "postedRate": "Rate: $0.10 per 1000 captchas.",
+      "screenshot": "/home/user/browser-probe/training/135-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:14:55.173Z",
+      "index": 13,
+      "answer": "W3VPZG",
+      "training": false,
+      "accepted": true,
+      "elapsedMs": 21449,
+      "before": 4,
+      "after": 5,
+      "earned": "0.0005",
+      "postedRate": "Rate: $0.10 per 1000 captchas.",
+      "screenshot": "/home/user/browser-probe/training/136-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:15:36.925Z",
+      "index": 14,
+      "answer": "BG34",
+      "training": false,
+      "accepted": true,
+      "elapsedMs": 24352,
+      "before": 5,
+      "after": 6,
+      "earned": "0.0006",
+      "postedRate": "Rate: $0.10 per 1000 captchas.",
+      "screenshot": "/home/user/browser-probe/training/137-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:16:14.333Z",
+      "index": 15,
+      "answer": "6384ZQ",
+      "training": false,
+      "accepted": true,
+      "elapsedMs": 19790,
+      "before": 6,
+      "after": 7,
+      "earned": "0.0007",
+      "postedRate": "Rate: $0.10 per 1000 captchas.",
+      "screenshot": "/home/user/browser-probe/training/138-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:16:50.748Z",
+      "index": 16,
+      "answer": "5RHVH",
+      "training": false,
+      "accepted": true,
+      "elapsedMs": 18689,
+      "before": 7,
+      "after": 8,
+      "earned": "0.0008",
+      "postedRate": "Rate: $0.10 per 1000 captchas.",
+      "screenshot": "/home/user/browser-probe/training/139-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:17:34.280Z",
+      "index": 17,
+      "answer": "nmkhv",
+      "training": true,
+      "accepted": false,
+      "elapsedMs": 24144,
+      "before": "Training progress 0/5",
+      "after": "Training progress 0/5"
+    },
+    {
+      "iso": "2026-11-13T13:18:44.293Z",
+      "index": 18,
+      "answer": "nmkhy",
+      "training": true,
+      "accepted": true,
+      "elapsedMs": 23127,
+      "before": "Training progress 0/5",
+      "after": "Training progress 1/5",
+      "screenshot": "/home/user/browser-probe/training/140-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:19:17.144Z",
+      "index": 19,
+      "answer": "5e678",
+      "training": true,
+      "accepted": true,
+      "elapsedMs": 24791,
+      "before": "Training progress 1/5",
+      "after": "Training progress 2/5",
+      "screenshot": "/home/user/browser-probe/training/141-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:19:44.224Z",
+      "index": 20,
+      "answer": "nat4iuu",
+      "training": true,
+      "accepted": true,
+      "elapsedMs": 21241,
+      "before": "Training progress 2/5",
+      "after": "Training progress 3/5",
+      "screenshot": "/home/user/browser-probe/training/142-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:20:07.837Z",
+      "index": 21,
+      "training": true,
+      "answer": "[Cannot solve \u2014 Cyrillic task]",
+      "accepted": true,
+      "before": "3/5",
+      "after": "Training progress 4/5",
+      "elapsedMs": 17825,
+      "screenshot": "/home/user/browser-probe/training/143-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:20:30.976Z",
+      "index": 22,
+      "training": true,
+      "answer": "[Cannot solve \u2014 Cyrillic words]",
+      "accepted": true,
+      "before": "4/5",
+      "after": "5/5",
+      "elapsedMs": 15379,
+      "screenshot": "/home/user/browser-probe/training/144-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:23:47.631Z",
+      "index": 23,
+      "answer": "HCU6EN",
+      "training": false,
+      "accepted": true,
+      "elapsedMs": 28992,
+      "before": 8,
+      "after": 9,
+      "earned": "0.0009",
+      "postedRate": "Rate: $0.10 per 1000 captchas.",
+      "screenshot": "/home/user/browser-probe/training/145-manual-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T13:24:33.263Z",
+      "index": 24,
+      "answer": "V6MYWZ",
+      "training": false,
+      "accepted": true,
+      "elapsedMs": 27852,
+      "before": 9,
+      "after": 10,
+      "earned": "0.001",
+      "postedRate": "Rate: $0.10 per 1000 captchas.",
+      "screenshot": "/home/user/browser-probe/training/146-manual-accepted.png"
+    }
+  ],
+  "events": [
+    {
+      "stage": 4,
+      "event": "expired/stopped before corrected answer could submit; no success counted",
+      "iso": "2026-11-13T13:08:02.249Z"
+    },
+    {
+      "stage": 4,
+      "answer": "P2lw2",
+      "outcome": "rejected",
+      "source": "visual correction screenshot",
+      "iso": "2026-11-13T13:12:02.152Z"
+    },
+    {
+      "event": "paid animated task expired before fill; read F347 not submitted",
+      "iso": "2026-11-13T13:14:10.032Z"
+    },
+    {
+      "event": "paid animated task expired before HFBTG could be filled; no submission",
+      "iso": "2026-11-13T13:21:45.992Z"
+    },
+    {
+      "event": "paid animated task expired after ZVMA readback, before submit button action; no acceptance",
+      "iso": "2026-11-13T13:23:00.720Z"
+    }
+  ],
+  "provenance": "Discrete per-item screenshot inspection, explicit fill/readback, separate submission; no unattended solver"
+}
