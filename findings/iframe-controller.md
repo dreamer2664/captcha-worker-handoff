@@ -1,0 +1,2 @@
+# Controller gap and relaunch
+Original controller lacked frame controls. Upgraded controller and same-profile relaunch allowed static.xcaptcha checkbox and api.xcaptcha puzzle interaction. Stale listener produced EADDRINUSE on 8877; replacement used 8878. Login persisted. Earlier unknown submission and 85-second wait did not establish a specific root cause. Current manual-only instruction prohibits shell-invoked controller use. No direct browser tool exposed.

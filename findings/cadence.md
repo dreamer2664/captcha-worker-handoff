@@ -1,0 +1,2 @@
+# Cadence and timing limitations
+Target jitter 8–15 s. Gate 1 ~10.8 s mean. Paid batch mean 15,938 ms excludes queue wait/training. Maximum ~34.45 s. Four paid items exceed 15 s (earlier summary incorrectly said three). Zero paid solves over 60 s. Animated tasks needed additional visual processing under prior permissions. Item 2 timestamp corrected using screenshot mtimes; estimate not retained as measurement. Other timing includes inspection/tool overhead, not server latency.

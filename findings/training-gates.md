@@ -1,0 +1,2 @@
+# Training gates
+Stage labels 1/14, 2/14, 3/14; each module requires five correct answers. Gate 1: 5/5 without rejections. Gate 2: 506592 wrong twice, corrected to UI-shown 505592 at 3/5. Gate 3: 55smmm wrong twice, corrected to UI-shown 55snmm at 4/5. Four rejected training submissions; 15 accepted across gates; no paid rejection implied. Actual rejected-attempt elapsed and timestamps were not saved. Gate 2 appeared after four total paid accepts, gate 3 after nine. Completion can transition automatically into paid queue.
