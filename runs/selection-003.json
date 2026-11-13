@@ -750,6 +750,114 @@
       "before": "Training progress 4/5",
       "after": "Training progress 5/5",
       "screenshot": "/home/user/browser-probe/training/203-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:22:42.467Z",
+      "index": 67,
+      "type": "text",
+      "answer": "06417",
+      "accepted": true,
+      "elapsedMs": 14111,
+      "before": 2,
+      "after": "3",
+      "earned": "0.0003",
+      "screenshot": "/home/user/browser-probe/training/204-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:23:12.475Z",
+      "index": 68,
+      "type": "text",
+      "answer": "E88RQ6AJ",
+      "accepted": true,
+      "elapsedMs": 16484,
+      "before": 3,
+      "after": "4",
+      "earned": "0.0004",
+      "screenshot": "/home/user/browser-probe/training/205-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:23:43.205Z",
+      "index": 69,
+      "type": "text",
+      "answer": "6GJAPRIJ",
+      "accepted": true,
+      "elapsedMs": 17180,
+      "before": 4,
+      "after": "5",
+      "earned": "0.0005",
+      "screenshot": "/home/user/browser-probe/training/206-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:24:15.712Z",
+      "index": 70,
+      "type": "text",
+      "answer": "8VR",
+      "accepted": null,
+      "elapsedMs": 18491,
+      "before": 5,
+      "after": "5",
+      "earned": "0.0005",
+      "outcome": "expired-during-minlength-modal-no-confirmed-submission"
+    },
+    {
+      "iso": "2026-11-13T15:26:50.108Z",
+      "index": 71,
+      "type": "text",
+      "answer": "CFWR",
+      "accepted": true,
+      "elapsedMs": 17450,
+      "before": 5,
+      "after": "6",
+      "earned": "0.0006",
+      "screenshot": "/home/user/browser-probe/training/207-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:27:21.992Z",
+      "index": 72,
+      "type": "text",
+      "answer": "KFL4LT",
+      "accepted": true,
+      "elapsedMs": 18378,
+      "before": 6,
+      "after": "7",
+      "earned": "0.0007",
+      "screenshot": "/home/user/browser-probe/training/208-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:27:57.289Z",
+      "index": 73,
+      "type": "text",
+      "answer": "WFM",
+      "accepted": true,
+      "elapsedMs": 21265,
+      "before": 7,
+      "after": "8",
+      "earned": "0.0008",
+      "note": "partial answer, minimum-length confirmation"
+    },
+    {
+      "iso": "2026-11-13T15:28:24.237Z",
+      "index": 74,
+      "type": "text",
+      "answer": "Q85AG",
+      "accepted": true,
+      "elapsedMs": 18579,
+      "before": 8,
+      "after": "9",
+      "earned": "0.0009",
+      "screenshot": "/home/user/browser-probe/training/209-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T15:28:54.289Z",
+      "index": 75,
+      "type": "text",
+      "answer": "734862",
+      "accepted": true,
+      "elapsedMs": 16565,
+      "before": 9,
+      "after": "10",
+      "earned": "0.001",
+      "screenshot": "/home/user/browser-probe/training/210-selection-accepted.png"
     }
   ],
   "assemblyAppearances": [
@@ -775,6 +883,10 @@
     {
       "iso": "2026-11-13T15:15:28.756Z",
       "event": "animated text partial H2O expired during inspection; no confirmed submission; five-second cap missed"
+    },
+    {
+      "iso": "2026-11-13T15:26:19.231Z",
+      "event": "animated text partial676 submitted to minimum-length modal then expired before confirmation; no paid reject confirmed"
     }
   ],
   "checks": [
@@ -826,6 +938,13 @@
       "accountHeader": "0.005899",
       "cumulativeQueueCredit": "0.0034",
       "headerDelta": "0.003399"
+    },
+    {
+      "iso": "2026-11-13T15:29:19.622Z",
+      "paidAccepted": 40,
+      "accountHeader": "0.006899",
+      "cumulativeQueueCredit": "0.0044",
+      "headerDelta": "0.004399"
     }
   ]
 }

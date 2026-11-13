@@ -144,3 +144,14 @@ Historical entries are reconstructed from saved artifacts, not contemporaneous l
 2026-11-13T15:21:40.768Z | S3-64 | 216903 | rejected training | 17494 | discrete visual/manual; selection-003.json
 2026-11-13T15:21:55.271Z | S3-65 | 276903 | accepted training | 14462 | discrete visual/manual; selection-003.json
 2026-11-13T15:22:11.576Z | S3-66 | W#=9 | accepted training | 16084 | discrete visual/manual; selection-003.json
+
+2026-11-13T15:22:42.467Z | S3-67 | 06417 | accepted text | 14111 | discrete visual/manual; selection-003.json
+2026-11-13T15:23:12.475Z | S3-68 | E88RQ6AJ | accepted text | 16484 | discrete visual/manual; selection-003.json
+2026-11-13T15:23:43.205Z | S3-69 | 6GJAPRIJ | accepted text | 17180 | discrete visual/manual; selection-003.json
+2026-11-13T15:24:15.712Z | S3-70 | 8VR | expired-during-minlength-modal-no-confirmed-submission text | 18491 | discrete visual/manual; selection-003.json
+2026-11-13T15:26:50.108Z | S3-71 | CFWR | accepted text | 17450 | discrete visual/manual; selection-003.json
+2026-11-13T15:27:21.992Z | S3-72 | KFL4LT | accepted text | 18378 | discrete visual/manual; selection-003.json
+2026-11-13T15:27:57.289Z | S3-73 | WFM | accepted text | 21265 | discrete visual/manual; selection-003.json
+2026-11-13T15:28:24.237Z | S3-74 | Q85AG | accepted text | 18579 | discrete visual/manual; selection-003.json
+2026-11-13T15:28:54.289Z | S3-75 | 734862 | accepted text | 16565 | discrete visual/manual; selection-003.json
+2026-11-13T15:26:00Z | S3-expiry-4 | partial676 | expired during minimum-length modal | unknown | no confirmed submission
