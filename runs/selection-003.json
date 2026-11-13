@@ -270,6 +270,97 @@
       "after": "7",
       "earned": "0.0007",
       "screenshot": "/home/user/browser-probe/training/166-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:56:03.153Z",
+      "index": 25,
+      "type": "text",
+      "answer": "267955",
+      "accepted": true,
+      "elapsedMs": 13712,
+      "before": 0,
+      "after": "1",
+      "earned": "0.0001",
+      "screenshot": "/home/user/browser-probe/training/167-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:56:31.896Z",
+      "index": 26,
+      "type": "text",
+      "answer": "4FWYBS",
+      "accepted": true,
+      "elapsedMs": 10718,
+      "before": 1,
+      "after": "2",
+      "earned": "0.0002",
+      "screenshot": "/home/user/browser-probe/training/168-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:56:51.817Z",
+      "index": 27,
+      "type": "training",
+      "answer": "SIMPLE",
+      "accepted": true,
+      "elapsedMs": 12958,
+      "before": "Training progress 0/5",
+      "after": "Training progress 1/5",
+      "screenshot": "/home/user/browser-probe/training/169-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:57:09.216Z",
+      "index": 28,
+      "type": "training",
+      "answer": "field",
+      "accepted": true,
+      "elapsedMs": 13337,
+      "before": "Training progress 1/5",
+      "after": "Training progress 2/5",
+      "screenshot": "/home/user/browser-probe/training/170-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:57:28.883Z",
+      "index": 29,
+      "type": "training",
+      "answer": "TGM",
+      "accepted": true,
+      "elapsedMs": 13477,
+      "before": "Training progress 2/5",
+      "after": "Training progress 3/5",
+      "screenshot": "/home/user/browser-probe/training/171-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:57:48.449Z",
+      "index": 30,
+      "type": "training",
+      "answer": "984",
+      "accepted": true,
+      "elapsedMs": 11648,
+      "before": "Training progress 3/5",
+      "after": "Training progress 4/5",
+      "screenshot": "/home/user/browser-probe/training/172-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:58:59.657Z",
+      "index": 31,
+      "type": "training",
+      "answer": "January",
+      "accepted": true,
+      "elapsedMs": 13544,
+      "before": "Training progress 4/5",
+      "after": "Training progress 5/5",
+      "screenshot": "/home/user/browser-probe/training/173-selection-accepted.png"
+    },
+    {
+      "iso": "2026-11-13T14:59:20.445Z",
+      "index": 32,
+      "type": "text",
+      "answer": "HU0P5K",
+      "accepted": true,
+      "elapsedMs": 12546,
+      "before": 2,
+      "after": "3",
+      "earned": "0.0003",
+      "screenshot": "/home/user/browser-probe/training/174-selection-accepted.png"
     }
   ],
   "assemblyAppearances": [

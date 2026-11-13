@@ -94,3 +94,12 @@ Historical entries are reconstructed from saved artifacts, not contemporaneous l
 2026-11-13T14:53:15.617Z | S3-22 | 87rnf | accepted text | 14266 | discrete visual/manual; selection-003.json
 2026-11-13T14:53:45.441Z | S3-23 | 3CBG | accepted text | 12212 | discrete visual/manual; selection-003.json
 2026-11-13T14:54:07.724Z | S3-24 | 878401 | accepted text | 13231 | discrete visual/manual; selection-003.json
+
+2026-11-13T14:56:03.153Z | S3-25 | 267955 | accepted text | 13712 | discrete visual/manual; selection-003.json
+2026-11-13T14:56:31.896Z | S3-26 | 4FWYBS | accepted text | 10718 | discrete visual/manual; selection-003.json
+2026-11-13T14:56:51.817Z | S3-27 | SIMPLE | accepted training | 12958 | discrete visual/manual; selection-003.json
+2026-11-13T14:57:09.216Z | S3-28 | field | accepted training | 13337 | discrete visual/manual; selection-003.json
+2026-11-13T14:57:28.883Z | S3-29 | TGM | accepted training | 13477 | discrete visual/manual; selection-003.json
+2026-11-13T14:57:48.449Z | S3-30 | 984 | accepted training | 11648 | discrete visual/manual; selection-003.json
+2026-11-13T14:58:59.657Z | S3-31 | January | accepted training | 13544 | discrete visual/manual; selection-003.json
+2026-11-13T14:59:20.445Z | S3-32 | HU0P5K | accepted text | 12546 | discrete visual/manual; selection-003.json
